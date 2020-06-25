@@ -10,7 +10,7 @@ A friend asked me to design a 5 way patch bay.
 * Cheap
 
 ## Components
-The total cost is 21.45 €.
+The total cost is 21.13 €.
 
 |   # |        Component | Unit Cost [€] | Number | Shipping Cost [€] | Total Cost [€] | Link | 
 | --- | ---------------- | ------------- | ------ | ----------------- | -------------- | ---- |
