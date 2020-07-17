@@ -1,13 +1,6 @@
 # 5 Way Patch Bay
-A friend asked me to design a 5 way patch bay.
-
-## Specifications
-* 5 inputs and outputs
-* Neutrik connectors
-* Isolated
-* 5 jacks on top
-* Sturdy container
-* Cheap
+![img-1](img-1.jpg)
+![img-2](img-2.jpg)
 
 ## Components
 The total cost is 21.13 €.
